@@ -1,5 +1,6 @@
 # 🍷 Predicción de la Calidad del Vino - Árboles de Decisión
 
+![](Arboles_de_Decision.png)
 Este informe detalla el análisis y modelado de un conjunto de datos sobre la calidad del vino utilizando un modelo de clasificación basado en árboles de decisión. A lo largo del informe, se describen los pasos y resultados obtenidos durante el proceso de análisis y predicción, proporcionando una visión completa del proyecto.
 
 ## 📊 Análisis Exploratorio de Datos (EDA)
