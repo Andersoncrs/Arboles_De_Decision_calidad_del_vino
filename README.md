@@ -76,8 +76,7 @@ Para cualquier consulta o comentario sobre este informe, puedes contactarme a tr
 Estoy disponible para responder a tus preguntas y discutir cualquier aspecto del análisis y modelado realizado en este proyecto. No dudes en ponerte en contacto si tienes alguna duda o necesitas más información.
 
 ## 📜 Licencia
-
 Este proyecto está licenciado bajo la Licencia Apache 2.0.
----
 
-Espero que este informe haya sido de utilidad y te haya proporcionado una comprensión clara del análisis y la predicción de la calidad del vino utilizando un modelo de árboles de decisión. Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto. ¡Gracias por tu interés en este proyecto!
+
+⭐ Espero que este informe haya sido de utilidad y te haya proporcionado una comprensión clara del análisis y la predicción de la calidad del vino utilizando un modelo de árboles de decisión. Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto. ¡Gracias por tu interés en este proyecto!
